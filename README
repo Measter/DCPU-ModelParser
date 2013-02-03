@@ -1,0 +1,9 @@
+DCPU-ModelParser
+================
+
+Allows the programmer to input SPED-3 model data in as raw vertex
+coordinates couple with indices, and will convert it to a SPED-3
+compliant data format.
+
+The example file was written to be assembled by Organic, though
+with some label adjustment should work in other assemblers.
