@@ -11,6 +11,10 @@ tmp/
 *.bak
 *.swp
 *~.nib
+*.zip
+*.lst
+*.bin
+*.bat
 local.properties
 .classpath
 .settings/
