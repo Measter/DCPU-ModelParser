@@ -171,4 +171,4 @@ set pc, start
 	
 	;36 indices.
 
-.include memory_end.asm
+.include memory_end.asm		;Must be at the end.
