@@ -8,8 +8,9 @@
 
 ; Struct - Vertex
 ; List of vertices in XYZ format.
-; 0x0 			: Vertex 0 coordinates.
-; 0x3			: Vertex 1 coordinates.
+; 0x0-2			: Vertex 0 coordinates.
+; 0x3-5			: Vertex 1 coordinates.
+; ...
 
 ; Struct - Index
 ; List of indices to use when drawing, in the order to draw.
